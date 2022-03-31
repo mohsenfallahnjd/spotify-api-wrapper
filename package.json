@@ -1,0 +1,32 @@
+{
+  "name": "spotify-wrapper-api",
+  "version": "1.0.0",
+  "description": "A wrapper base on node.js for working spotify api",
+  "main": "index.js",
+  "author": "Mohsen Fallahnejad",
+  "license": "MIT",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/mohsenfallahnjd/spotify-api-wrapper"
+  },
+  "keywords": [
+    "spotify",
+    "http",
+    "spotify-web-api-node",
+    "express",
+    "node",
+    "spotify-api",
+    "spotify-node"
+  ],
+  "homepage": "https://themohsen.me",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "node-cron": "^3.0.0",
+    "spotify-web-api-node": "^5.0.2"
+  },
+  "devDependencies": {
+    "axios": "^0.26.1"
+  }
+}
